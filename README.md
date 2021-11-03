@@ -26,7 +26,9 @@
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
--🧗🏼‍♂️ I’m interested in playing music, rock climbing, pretty casual cycling and running, being outside, and dating my wife.
+
+- 🧗🏼‍♂️ I’m interested in playing music, rock climbing, pretty casual cycling and running, being outside, and dating my wife.
+
 
 <!--
 **gTambo/gTambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
