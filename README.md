@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Unit Testing
 - 🔭 I’m currently working on a project with 3 others at Prime Digital Academy
+- 🌱 I’m currently learning about data analytics, unit testing
+- 😄 Pronouns: he/him
+- 
 
 - I have experience in the folowing technologies (in order of proficiency)
-
-
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,6 +26,7 @@
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+-🧗🏼‍♂️ I’m interested in playing music, rock climbing, pretty casual cycling and running, being outside, and dating my wife.
 
 <!--
 **gTambo/gTambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
