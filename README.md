@@ -27,8 +27,6 @@
 
 
 
-- 🧗🏼‍♂️ I’m interested in playing music, rock climbing, pretty casual cycling and running, being outside, and dating my wife.
-
 
 <!--
 **gTambo/gTambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,3 +44,6 @@ Here are some ideas to get you started:
 -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gTambo&show_icons=true)
+
+
+- 🧗🏼‍♂️ When I'm not coding, I'm probably playing bass, rock climbing, doing some pretty casual cycling or running, being outside, or dating my wife.
