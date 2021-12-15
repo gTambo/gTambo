@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a project with 3 others at Prime Digital Academy
-- 🌱 I’m currently learning about data analytics, unit testing
+- 🔭 I am currently seeking employment
+- 🌱 I’m currently learning about the basics of Python and Django
+- 🎓 I recently graduated from Prime Digital Academy
 - 😄 Pronouns: he/him
-- 
+- 🎄 And I'm doing this 👉🏼 [AoC++](https://adventofcode.com/)
 
 - I have experience in the folowing technologies (in order of proficiency)
 
