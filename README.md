@@ -1,10 +1,7 @@
 ### Hi there 👋
-
-- 🔭 I am currently seeking employment
-- 🌱 I’m currently learning about the basics of Python and Django
+- I currently work at ConcordUSA
 - 🎓 I recently graduated from Prime Digital Academy
 - 😄 Pronouns: he/him
-- 🎄 And I'm doing this 👉🏼 [AoC++](https://adventofcode.com/)
 
 - I have experience in the folowing technologies (in order of proficiency)
 
