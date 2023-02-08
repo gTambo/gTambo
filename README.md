@@ -1,6 +1,6 @@
 ### Hi there 👋
-- I currently work at ConcordUSA
-- 🎓 I recently graduated from Prime Digital Academy
+- I currently work at ConcordUSA since January 2022
+- 🎓 I graduated from the Prime Digital Academy FSE program in 2021
 - 😄 Pronouns: he/him
 
 - I have experience in the folowing technologies (in order of proficiency)
