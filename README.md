@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gTambo&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gTambo&show_icons=true&theme=transparent)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gTambo&show_icons=true&locale=en&layout=donut&theme=transparent)
 
